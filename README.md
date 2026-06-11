@@ -11,3 +11,5 @@ memo: for running check
 commit with vs code 
 
 edit on GitHub
+
+logout feature
